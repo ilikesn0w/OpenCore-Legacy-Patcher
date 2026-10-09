@@ -8,7 +8,7 @@
 - Add USB mappings for macOS 26
 - Adopt Liquid Glass-conformant app icon
 - Increment Binaries:
-  - OpenCorePkg 1.0.5 - release
+  - OpenCorePkg 1.0.6 - release
 
 ## 2.5.1 
 - Fix "Root Volume Dirty" appearing after unpatching
